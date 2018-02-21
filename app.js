@@ -32,6 +32,12 @@ App({
         }
       }
     })
+    // wx.navigateTo({
+    //   url: 'pages/test/test',
+    //   success: res => {
+
+    //   }
+    // })
   },
   globalData: {
     userInfo: null
